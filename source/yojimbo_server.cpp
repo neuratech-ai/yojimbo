@@ -22,6 +22,7 @@
     USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#include <malloc.h>
 #include "yojimbo_server.h"
 #include "yojimbo_connection.h"
 #include "yojimbo_adapter.h"

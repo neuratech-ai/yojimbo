@@ -1,3 +1,4 @@
+#include <malloc.h>
 #include "yojimbo_client.h"
 #include "yojimbo_connection.h"
 #include "yojimbo_network_simulator.h"

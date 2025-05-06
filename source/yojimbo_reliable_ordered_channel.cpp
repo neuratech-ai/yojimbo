@@ -22,6 +22,7 @@
     USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+#include <malloc.h>
 #include "yojimbo_reliable_ordered_channel.h"
 #include "yojimbo_utils.h"
 
